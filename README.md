@@ -6,8 +6,6 @@ We develop systems that integrate creative input with autonomous generation.
 
 ---
 
-This is a PS-EE37 A & B initiative with funding from the DEARBORN MINING CONSORTIUM. For additional inquiries, speak to our media liaison.
-
 # Pseudai Research Dissemination License
 
 All research materials, findings, conceptual frameworks, and generated outputs released under this repository are provided for public access and review.
